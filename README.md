@@ -19,7 +19,7 @@ layout:
 
 <h2 align="center">How can we help you?</h2>
 
-<p align="center">Use the search bar to find something in Listly.<br>Common troubleshooting topics: <a href="https://help.listly.io/root/getting-started-en/getting-started/explore-the-databoard-in-detail/settings-proxy">proxy</a>, <a href="https://help.listly.io/root/getting-started-en/getting-started/listly-basics/tabs-extraction-tabs-parts">tabs</a>, <a href="https://help.listly.io/ko/getting-started/getting-started/undefined-2/undefined-7">pagination templates</a></p>
+<p align="center">Use the search bar to find something in Listly.<br>Common troubleshooting topics: <a href="https://help.listly.io/root/en-getting-started/getting-started/explore-the-databoard-in-detail/settings-proxy">proxy</a>, <a href="https://help.listly.io/root/en-getting-started/getting-started/listly-basics/tabs-extraction-tabs-parts">tabs</a>, <a href="https://help.listly.io/root/en-getting-started/getting-started/explore-the-databoard-in-detail/settings-pagination-template">pagination templates</a></p>
 
 <p align="center"><a href="https://www.listly.io/contact" class="button primary">Contact Support</a> <a href="https://www.listly.io/login?next=/contact%3Fabout%3Denterprise" class="button secondary">Talk to Sales</a></p>
 
